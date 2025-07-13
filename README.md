@@ -351,10 +351,10 @@ See [CHANGELOG.md](CHANGELOG.md) for details about changes in each version.
 
 If you have questions or need help:
 
-1. Check the [documentation](https://docs.telegram-mini-apps.com/)
+1. Check the [documentation](https://github.com/iCodeCraft/telegram-init-data/blob/main/README.md)
 2. Look at the [examples](examples/)
-3. Open an [issue](https://github.com/telegram-init-data/telegram-init-data-python/issues)
+3. Open an [issue](https://github.com/iCodeCraft/telegram-init-data/issues)
 
 ---
 
-Made with ❤️ for the Telegram Mini Apps community 
+Developed with ❤️ by Imran Gadzhiev to support Telegram Mini Apps developers.
