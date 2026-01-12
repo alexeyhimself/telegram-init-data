@@ -15,6 +15,7 @@ class ChatType(str, Enum):
     GROUP = "group"
     SUPERGROUP = "supergroup"
     CHANNEL = "channel"
+    SENDER = "sender"
 
 
 class User(TypedDict, total=False):
